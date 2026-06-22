@@ -1,11 +1,8 @@
 
-  # Luxury Hair Salon Website
+  # Hair 4 All
 
-  This is a code bundle for Luxury Hair Salon Website. The original project is available at https://www.figma.com/design/nCIUi3u1yxd1mboXn7Spxh/Luxury-Hair-Salon-Website.
+A luxurious, feminine hair salon website design, showcasing services, stylist profiles, hair transformations, and online booking in a premium, user-friendly experience.
 
-  ## Running the code
+💻 Developed in Visual Studio Code
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+🔗 https://hair-4-all.vercel.app
